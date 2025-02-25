@@ -1,5 +1,8 @@
 # db-smart-migrate-server
 Table structure intelligent migration service
+
+
+
 ### scenes to be used
 - When making collaborative changes to the MySQL table structure, I want to synchronously migrate the structural changes in the library in the dev environment to the test environment for intelligent migration. And archive the changed SQL records as required. Download for inspection and then execute online.
 - Provides comparison steps according to tables, fields, and indexes to show which ones are newly added, which ones are deleted, and which ones are manually selected page requirements that need to be renamed. Similar to git merging conflicting code.

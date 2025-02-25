@@ -31,7 +31,7 @@
 ##### &emsp;A. 配置
    1. 如果要配置单个数据库 schema: <br/>
        规则: 
-    
+        
         ```  name_spaces:
                schema_name: 
                  source:
@@ -61,8 +61,7 @@
            #         driver-class-name: com.mysql.jdbc.Driver
         
         ```
-        
-        
+       
 2. 如果想配置多个数据库 schema   则放开注释即可
 
 
@@ -74,13 +73,13 @@
     登陆 用户名密码为 admin/123456
    第一步: 点击 <font color=#008000 >结构同步</font>   ，点击 <font color=#008000 >开始</font>  弹出页面，根据自己需求进行操作，完成后，点击 <font color=#008000 >迁移</font>
    此时会生成新的版本，和新的SQL文件可供下载查看 。
-3.<br/>![avatar](./src/desc-images/a.png)
-4.<br/>![avatar](./src/desc-images/b.png)
-5.<br/>![avatar](./src/desc-images/c.png)
-6.<br/>![avatar](./src/desc-images/d.png)
-7.<br/>![avatar](./src/desc-images/e.png)
-8.<br/>![avatar](./src/desc-images/f.png)
-9.<br/>![avatar](./src/desc-images/g.png)
+    3.<br/>![avatar](./src/desc-images/a.png)
+    4.<br/>![avatar](./src/desc-images/b.png)
+    5.<br/>![avatar](./src/desc-images/c.png)
+    6.<br/>![avatar](./src/desc-images/d.png)
+    7.<br/>![avatar](./src/desc-images/e.png)
+    8.<br/>![avatar](./src/desc-images/f.png)
+    9.<br/>![avatar](./src/desc-images/g.png)
 
 
 ### 注意事项
@@ -88,3 +87,4 @@
 ### 问题反馈
  Email ： 757761927@qq.com 
  微信 ：qiuqiu757761927
+
